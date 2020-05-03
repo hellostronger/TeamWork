@@ -3,7 +3,7 @@
 
 #### 1.安装GitHub桌面版
 
-<img src="C:\Users\Fish\AppData\Roaming\Typora\typora-user-images\image-20200503170213595.png" alt="image-20200503170213595" style="zoom:33%;" />
+![image-20200503170213595.png](https://i.loli.net/2020/05/03/PBi8shH3LfOgR6n.png)
 
 * [GitHub桌面版下载](https://desktop.github.com/)
 
@@ -14,18 +14,18 @@
 
 #### 2.克隆远程仓库
 
-<img src="C:\Users\Fish\AppData\Roaming\Typora\typora-user-images\image-20200503193926091.png" alt="image-20200503193926091" style="zoom: 50%;" />
+![image-20200503193926091.png](https://i.loli.net/2020/05/03/KIHChEZ8n5JDvFQ.png)
 
 * Clone repository
 * 选择团队项目
 
-<img src="C:\Users\Fish\AppData\Roaming\Typora\typora-user-images\image-20200503194111427.png" alt="image-20200503194111427" style="zoom:50%;" />
+![image-20200503194111427.png](https://i.loli.net/2020/05/03/JbWOhqBtxpn5ljN.png)
 
 * 等待
 
 #### 新建自己的分支
 
-<img src="C:\Users\Fish\AppData\Roaming\Typora\typora-user-images\image-20200503194230039.png" alt="image-20200503194230039" style="zoom:50%;" />
+![image-20200503194230039.png](https://i.loli.net/2020/05/03/NRj2XuPylKxGcv9.png)
 
 * 然后就在自己的分支中完成代码
 
